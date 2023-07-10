@@ -1,0 +1,13 @@
+.banner{
+    background-color:hsl(36, 72%, 32%);
+    width:100%;
+    height:50%;
+    margin-bottom:50px;
+}
+
+.banner-text{
+    left:50%;
+    top:50%;
+    text-align: center;
+text-decoration-line: underline;
+}
